@@ -11,4 +11,11 @@ Hash signs (#) allow us to create headings (like HTML h1/h2/...)
 - A
 - List
 
+
+1. This
+2. IS
+3. A
+4. Numbered
+5. List
+
 This is a link to [Git For Windows](https://git-scm.com/downloads/win).
